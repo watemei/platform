@@ -3,6 +3,12 @@
 *.class
 *.DS_Store
 
+/bin/
+.tomcatplugin
+.classpath
+.settings/
+.idea/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
